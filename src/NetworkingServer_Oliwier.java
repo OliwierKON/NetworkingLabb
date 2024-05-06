@@ -35,7 +35,7 @@ public class NetworkingServer_Oliwier {
                 System.out.println("Connect request is accepted...");
                 String clientHost = client.getInetAddress().getHostAddress();
                 int clientPort = client.getPort();
-                System.out.println("Client Host = " + clientHost + "Client Port = " + clientPort);
+                System.out.println("Client Host = " + clientHost + " Client Port = " + clientPort);
 
                 //Read data from the client
                 InputStream clientIn = client.getInputStream();
