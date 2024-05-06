@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f211c2bb-e1bc-45ee-a035-81da29025170" name="Changes" comment="skapdede">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="f211c2bb-e1bc-45ee-a035-81da29025170" name="Changes" comment="yahhooo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +41,34 @@
       <option name="project" value="LOCAL" />
       <updated>1714982560799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EAJIOEJAOIE">
+      <created>1714983864330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983864330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="EAJIOEJAOIE">
+      <created>1714983880519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983880519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yahhooo">
+      <created>1714983919382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714983919382</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="skapdede" />
-    <option name="LAST_COMMIT_MESSAGE" value="skapdede" />
+    <MESSAGE value="EAJIOEJAOIE" />
+    <MESSAGE value="yahhooo" />
+    <option name="LAST_COMMIT_MESSAGE" value="yahhooo" />
   </component>
 </project>
